@@ -1,1 +1,1 @@
-# Meal-planning-agent-with-Crew-AI
+# Meal & Grocery Planner with CrewAI
